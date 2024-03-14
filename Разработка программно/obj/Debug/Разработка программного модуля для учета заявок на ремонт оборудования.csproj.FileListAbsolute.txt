@@ -1,0 +1,75 @@
+E:\Visual Studio\Системное программирование\Technoservis\Разработка программного модуля для учета заявок на ремонт оборудования\bin\Debug\Разработка программного модуля для учета заявок на ремонт оборудования.exe.config
+E:\Visual Studio\Системное программирование\Technoservis\Разработка программного модуля для учета заявок на ремонт оборудования\bin\Debug\Разработка программного модуля для учета заявок на ремонт оборудования.exe
+E:\Visual Studio\Системное программирование\Technoservis\Разработка программного модуля для учета заявок на ремонт оборудования\bin\Debug\Разработка программного модуля для учета заявок на ремонт оборудования.pdb
+E:\Visual Studio\Системное программирование\Technoservis\Разработка программного модуля для учета заявок на ремонт оборудования\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Visual Studio\Системное программирование\Technoservis\Разработка программного модуля для учета заявок на ремонт оборудования\bin\Debug\Microsoft.Bcl.HashCode.dll
+E:\Visual Studio\Системное программирование\Technoservis\Разработка программного модуля для учета заявок на ремонт оборудования\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Visual Studio\Системное программирование\Technoservis\Разработка программного модуля для учета заявок на ремонт оборудования\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+E:\Visual Studio\Системное программирование\Technoservis\Разработка программного модуля для учета заявок на ремонт оборудования\bin\Debug\Microsoft.EntityFrameworkCore.dll
+E:\Visual Studio\Системное программирование\Technoservis\Разработка программного модуля для учета заявок на ремонт оборудования\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Visual Studio\Системное программирование\Technoservis\Разработка программного модуля для учета заявок на ремонт оборудования\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Visual Studio\Системное программирование\Technoservis\Разработка программного модуля для учета заявок на ремонт оборудования\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+E:\Visual Studio\Системное программирование\Technoservis\Разработка программного модуля для учета заявок на ремонт оборудования\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Visual Studio\Системное программирование\Technoservis\Разработка программного модуля для учета заявок на ремонт оборудования\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+E:\Visual Studio\Системное программирование\Technoservis\Разработка программного модуля для учета заявок на ремонт оборудования\bin\Debug\Microsoft.Extensions.Configuration.dll
+E:\Visual Studio\Системное программирование\Technoservis\Разработка программного модуля для учета заявок на ремонт оборудования\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Visual Studio\Системное программирование\Technoservis\Разработка программного модуля для учета заявок на ремонт оборудования\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+E:\Visual Studio\Системное программирование\Technoservis\Разработка программного модуля для учета заявок на ремонт оборудования\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Visual Studio\Системное программирование\Technoservis\Разработка программного модуля для учета заявок на ремонт оборудования\bin\Debug\Microsoft.Extensions.Logging.dll
+E:\Visual Studio\Системное программирование\Technoservis\Разработка программного модуля для учета заявок на ремонт оборудования\bin\Debug\Microsoft.Extensions.Options.dll
+E:\Visual Studio\Системное программирование\Technoservis\Разработка программного модуля для учета заявок на ремонт оборудования\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\Visual Studio\Системное программирование\Technoservis\Разработка программного модуля для учета заявок на ремонт оборудования\bin\Debug\Npgsql.dll
+E:\Visual Studio\Системное программирование\Technoservis\Разработка программного модуля для учета заявок на ремонт оборудования\bin\Debug\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:\Visual Studio\Системное программирование\Technoservis\Разработка программного модуля для учета заявок на ремонт оборудования\bin\Debug\System.Buffers.dll
+E:\Visual Studio\Системное программирование\Technoservis\Разработка программного модуля для учета заявок на ремонт оборудования\bin\Debug\System.Collections.Immutable.dll
+E:\Visual Studio\Системное программирование\Technoservis\Разработка программного модуля для учета заявок на ремонт оборудования\bin\Debug\System.ComponentModel.Annotations.dll
+E:\Visual Studio\Системное программирование\Technoservis\Разработка программного модуля для учета заявок на ремонт оборудования\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Visual Studio\Системное программирование\Technoservis\Разработка программного модуля для учета заявок на ремонт оборудования\bin\Debug\System.Memory.dll
+E:\Visual Studio\Системное программирование\Technoservis\Разработка программного модуля для учета заявок на ремонт оборудования\bin\Debug\System.Numerics.Vectors.dll
+E:\Visual Studio\Системное программирование\Technoservis\Разработка программного модуля для учета заявок на ремонт оборудования\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Visual Studio\Системное программирование\Technoservis\Разработка программного модуля для учета заявок на ремонт оборудования\bin\Debug\System.Text.Encodings.Web.dll
+E:\Visual Studio\Системное программирование\Technoservis\Разработка программного модуля для учета заявок на ремонт оборудования\bin\Debug\System.Text.Json.dll
+E:\Visual Studio\Системное программирование\Technoservis\Разработка программного модуля для учета заявок на ремонт оборудования\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Visual Studio\Системное программирование\Technoservis\Разработка программного модуля для учета заявок на ремонт оборудования\bin\Debug\System.ValueTuple.dll
+E:\Visual Studio\Системное программирование\Technoservis\Разработка программного модуля для учета заявок на ремонт оборудования\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Visual Studio\Системное программирование\Technoservis\Разработка программного модуля для учета заявок на ремонт оборудования\bin\Debug\Microsoft.Bcl.HashCode.xml
+E:\Visual Studio\Системное программирование\Technoservis\Разработка программного модуля для учета заявок на ремонт оборудования\bin\Debug\Microsoft.EntityFrameworkCore.xml
+E:\Visual Studio\Системное программирование\Technoservis\Разработка программного модуля для учета заявок на ремонт оборудования\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+E:\Visual Studio\Системное программирование\Technoservis\Разработка программного модуля для учета заявок на ремонт оборудования\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+E:\Visual Studio\Системное программирование\Technoservis\Разработка программного модуля для учета заявок на ремонт оборудования\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+E:\Visual Studio\Системное программирование\Technoservis\Разработка программного модуля для учета заявок на ремонт оборудования\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+E:\Visual Studio\Системное программирование\Technoservis\Разработка программного модуля для учета заявок на ремонт оборудования\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+E:\Visual Studio\Системное программирование\Technoservis\Разработка программного модуля для учета заявок на ремонт оборудования\bin\Debug\Microsoft.Extensions.Configuration.xml
+E:\Visual Studio\Системное программирование\Technoservis\Разработка программного модуля для учета заявок на ремонт оборудования\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\Visual Studio\Системное программирование\Technoservis\Разработка программного модуля для учета заявок на ремонт оборудования\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+E:\Visual Studio\Системное программирование\Technoservis\Разработка программного модуля для учета заявок на ремонт оборудования\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+E:\Visual Studio\Системное программирование\Technoservis\Разработка программного модуля для учета заявок на ремонт оборудования\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\Visual Studio\Системное программирование\Technoservis\Разработка программного модуля для учета заявок на ремонт оборудования\bin\Debug\Microsoft.Extensions.Logging.xml
+E:\Visual Studio\Системное программирование\Technoservis\Разработка программного модуля для учета заявок на ремонт оборудования\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\Visual Studio\Системное программирование\Technoservis\Разработка программного модуля для учета заявок на ремонт оборудования\bin\Debug\Microsoft.Extensions.Options.xml
+E:\Visual Studio\Системное программирование\Technoservis\Разработка программного модуля для учета заявок на ремонт оборудования\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\Visual Studio\Системное программирование\Technoservis\Разработка программного модуля для учета заявок на ремонт оборудования\bin\Debug\Npgsql.xml
+E:\Visual Studio\Системное программирование\Technoservis\Разработка программного модуля для учета заявок на ремонт оборудования\bin\Debug\System.Buffers.xml
+E:\Visual Studio\Системное программирование\Technoservis\Разработка программного модуля для учета заявок на ремонт оборудования\bin\Debug\System.Collections.Immutable.xml
+E:\Visual Studio\Системное программирование\Technoservis\Разработка программного модуля для учета заявок на ремонт оборудования\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Visual Studio\Системное программирование\Technoservis\Разработка программного модуля для учета заявок на ремонт оборудования\bin\Debug\System.Memory.xml
+E:\Visual Studio\Системное программирование\Technoservis\Разработка программного модуля для учета заявок на ремонт оборудования\bin\Debug\System.Numerics.Vectors.xml
+E:\Visual Studio\Системное программирование\Technoservis\Разработка программного модуля для учета заявок на ремонт оборудования\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Visual Studio\Системное программирование\Technoservis\Разработка программного модуля для учета заявок на ремонт оборудования\bin\Debug\System.Text.Encodings.Web.xml
+E:\Visual Studio\Системное программирование\Technoservis\Разработка программного модуля для учета заявок на ремонт оборудования\bin\Debug\System.Text.Json.xml
+E:\Visual Studio\Системное программирование\Technoservis\Разработка программного модуля для учета заявок на ремонт оборудования\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Visual Studio\Системное программирование\Technoservis\Разработка программного модуля для учета заявок на ремонт оборудования\bin\Debug\System.ValueTuple.xml
+E:\Visual Studio\Системное программирование\Technoservis\Разработка программного модуля для учета заявок на ремонт оборудования\obj\Debug\Разработка программного модуля для учета заявок на ремонт оборудования.csproj.AssemblyReference.cache
+E:\Visual Studio\Системное программирование\Technoservis\Разработка программного модуля для учета заявок на ремонт оборудования\obj\Debug\Разработка программного модуля для учета заявок на ремонт оборудования.csproj.SuggestedBindingRedirects.cache
+E:\Visual Studio\Системное программирование\Technoservis\Разработка программного модуля для учета заявок на ремонт оборудования\obj\Debug\Разработка_программного_модуля_для_учета_заявок_на_ремонт_оборудования.Applcation.resources
+E:\Visual Studio\Системное программирование\Technoservis\Разработка программного модуля для учета заявок на ремонт оборудования\obj\Debug\Разработка_программного_модуля_для_учета_заявок_на_ремонт_оборудования.Properties.Resources.resources
+E:\Visual Studio\Системное программирование\Technoservis\Разработка программного модуля для учета заявок на ремонт оборудования\obj\Debug\Разработка программного модуля для учета заявок на ремонт оборудования.csproj.GenerateResource.cache
+E:\Visual Studio\Системное программирование\Technoservis\Разработка программного модуля для учета заявок на ремонт оборудования\obj\Debug\Разработка программного модуля для учета заявок на ремонт оборудования.csproj.CoreCompileInputs.cache
+E:\Visual Studio\Системное программирование\Technoservis\Разработка программного модуля для учета заявок на ремонт оборудования\obj\Debug\Разработка программного модуля для учета заявок на ремонт оборудования.csproj.CopyComplete
+E:\Visual Studio\Системное программирование\Technoservis\Разработка программного модуля для учета заявок на ремонт оборудования\obj\Debug\Разработка программного модуля для учета заявок на ремонт оборудования.exe
+E:\Visual Studio\Системное программирование\Technoservis\Разработка программного модуля для учета заявок на ремонт оборудования\obj\Debug\Разработка программного модуля для учета заявок на ремонт оборудования.pdb
+E:\Visual Studio\Системное программирование\Technoservis\Разработка программного модуля для учета заявок на ремонт оборудования\obj\Debug\Разработка_программного_модуля_для_учета_заявок_на_ремонт_оборудования.Authorization.resources
+E:\Visual Studio\Системное программирование\Technoservis\Разработка программного модуля для учета заявок на ремонт оборудования\obj\Debug\Разработка_программного_модуля_для_учета_заявок_на_ремонт_оборудования.EditApp.resources
+E:\Visual Studio\Системное программирование\Technoservis\Разработка программного модуля для учета заявок на ремонт оборудования\obj\Debug\Разработка_программного_модуля_для_учета_заявок_на_ремонт_оборудования.ViewApp.resources
+E:\Visual Studio\Системное программирование\Technoservis\Разработка программного модуля для учета заявок на ремонт оборудования\obj\Debug\Разработка_программного_модуля_для_учета_заявок_на_ремонт_оборудования.ResponsibleWork.resources
+E:\Visual Studio\Системное программирование\Technoservis\Разработка программного модуля для учета заявок на ремонт оборудования\obj\Debug\Разработка_программного_модуля_для_учета_заявок_на_ремонт_оборудования.Statistic.resources
